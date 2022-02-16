@@ -72,20 +72,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}loli
   ≻ ${prefix}waifu
   ≻ ${prefix}husbu
-  ≻ ${prefix}yaoi
-  
-  *( ⚠️ )  Nsfw Premium*
-  ≻ ${prefix}hentai
-  ≻ ${prefix}ass
-  ≻ ${prefix}bdsm
-  ≻ ${prefix}ahegao
-  ≻ ${prefix}cuckold
-  ≻ ${prefix}blowjob
-  ≻ ${prefix}cum
-  ≻ ${prefix}ero
-  ≻ ${prefix}femdom
-  ≻ ${prefix}foot
-  ≻ ${prefix}gangbang
   
   *( 🎨 )  Menu Maker*
   ≻ ${prefix}glitch <Text> <Text>
@@ -160,7 +146,6 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}rate <Query>
   ≻ ${prefix}gantecek <Nama>
   ≻ ${prefix}cantikcek <Nama>
-  ≻ ${prefix}sangecek <Nama>
   ≻ ${prefix}gaycek <Nama>
   ≻ ${prefix}lesbicek <Nama>
   ≻ ${prefix}gimana <Query>
@@ -195,13 +180,5 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
   ≻ ${prefix}leave
   ≻ ${prefix}addprem
   ≻ ${prefix}delprem
-
-  *THANKS TO*
-  - Allah SWT
-  - Baileys-Md (Adiwa Jshing)
-  - @yannnnn.zz_ (Riyan)
-  - @sofunsyabi.id (Arasya)
-  - M Hadi Firmansya (Hadi Api)
-  - @melcanz_ (Amel)
-  - @hardianto.xyz (Anto)`
+`
 }
